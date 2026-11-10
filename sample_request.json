@@ -1,0 +1,34 @@
+{
+  "instances": [
+    {
+      "MedInc": 1.6812,
+      "HouseAge": 25.0,
+      "AveRooms": 4.192200557103064,
+      "AveBedrms": 1.0222841225626742,
+      "Population": 1392.0,
+      "AveOccup": 3.8774373259052926,
+      "Latitude": 36.06,
+      "Longitude": -119.01
+    },
+    {
+      "MedInc": 2.5313,
+      "HouseAge": 30.0,
+      "AveRooms": 5.039383561643835,
+      "AveBedrms": 1.1934931506849316,
+      "Population": 1565.0,
+      "AveOccup": 2.6797945205479454,
+      "Latitude": 35.14,
+      "Longitude": -119.46
+    },
+    {
+      "MedInc": 3.4801,
+      "HouseAge": 52.0,
+      "AveRooms": 3.977154724818276,
+      "AveBedrms": 1.185877466251298,
+      "Population": 1310.0,
+      "AveOccup": 1.3603322949117342,
+      "Latitude": 37.8,
+      "Longitude": -122.44
+    }
+  ]
+}

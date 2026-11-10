@@ -1,0 +1,20 @@
+{
+  "name": "housing-classifier",
+  "version": "4",
+  "run_id": "3d420e0470704aa290f4c5bb899d69e1",
+  "features": [
+    "MedInc",
+    "HouseAge",
+    "AveRooms",
+    "AveBedrms",
+    "Population",
+    "AveOccup",
+    "Latitude",
+    "Longitude"
+  ],
+  "classes": [
+    "below_median",
+    "above_median"
+  ],
+  "threshold_medinc": 1.798
+}
